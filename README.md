@@ -1,5 +1,5 @@
 # UAV STToolkit
-## STToolkit for UAV-based live flying tour experiences
+## Smart Tourism Toolkit for UAV-based live flying tour experiences
 
 The new 5G mobile network allows providing live flying tours for remote tourists with no carbon footprint. 360º aerial vision allows innovative virtual travelers’ experiences, where virtual tourists can interact with the tour guide (UAV pilot) to obtain a detailed information about a particular issue, or even change the flight course.
 
